@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Bharath</h1>
-<p>A passionate software developer from India 🇮🇳</p>
+# 💫 About Me:
+👋 Hi, I'm Bharath S J, a passionate software developer!<br>I am currently working on: Building web apps with Node.js and React 💻🚀.<br>I am looking for help with: Improving my DevOps skills 🛠️.<br>I am currently learning: Spring Boot and Angular 📚💡.<br>I enjoy solving complex problems with clean code 🧠💻.<br>I'm passionate about creating efficient and user-friendly software 💡✨.<br>Always eager to learn and collaborate with others 🤝📈.
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -27,5 +29,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharath-S-J&show_icons=true&locale=en" alt="Bharath-S-J" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-S-J&" alt="Bharath-S-J" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharath-S-J&show_icons=true&locale=en&layout=compact" alt="Bharath-S-J" /></p>
