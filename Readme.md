@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Bharath</h1>
 <h2>💫 About Me:</h2>
 <li>I am a passionate software developer!</li>
-<li>👋 I am currently working on: Building web apps with Node.js and React 💻🚀.</li>
+<li>I am currently working on: Building web apps with Node.js and React 💻🚀.</li>
 <li>I am currently learning: DevOps and Angular 📚💡.</li>
 <li>I enjoy solving complex problems with clean code 🧠💻</li>
 <li>I'm passionate about creating efficient and user-friendly software 💡✨</li>
