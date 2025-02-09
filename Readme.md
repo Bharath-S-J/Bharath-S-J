@@ -1,6 +1,11 @@
 <h1>Hi 👋, I'm Bharath</h1>
-# 💫 About Me:
-👋 Hi, I'm Bharath S J, a passionate software developer!<br>I am currently working on: Building web apps with Node.js and React 💻🚀.<br>I am looking for help with: Improving my DevOps skills 🛠️.<br>I am currently learning: Spring Boot and Angular 📚💡.<br>I enjoy solving complex problems with clean code 🧠💻.<br>I'm passionate about creating efficient and user-friendly software 💡✨.<br>Always eager to learn and collaborate with others 🤝📈.
+<h2>💫 About Me:</h2>
+<li>I am a passionate software developer!</li>
+<li>👋 I am currently working on: Building web apps with Node.js and React 💻🚀.</li>
+<li>I am currently learning: DevOps and Angular 📚💡.</li>
+<li>I enjoy solving complex problems with clean code 🧠💻</li>
+<li>I'm passionate about creating efficient and user-friendly software 💡✨</li>
+<li>Always eager to learn and collaborate with others 🤝📈</li>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
