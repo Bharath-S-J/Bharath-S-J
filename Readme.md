@@ -1,11 +1,14 @@
 <h1>Hi 👋, I'm Bharath</h1>
 <h2>💫 About Me:</h2>
-<li>I am a passionate software developer!</li>
-<li>I am currently working on: Building web apps with Node.js and React 💻🚀.</li>
-<li>I am currently learning: DevOps and Angular 📚💡.</li>
-<li>I enjoy solving complex problems with clean code 🧠💻</li>
-<li>I'm passionate about creating efficient and user-friendly software 💡✨</li>
-<li>Always eager to learn and collaborate with others 🤝📈</li>
+<ul>
+  <li>I am a passionate software developer!</li>
+  <li>I am currently working on building web apps with Node.js and React 💻🚀.</li>
+  <li>I am currently learning DevOps and Angular 📚💡.</li>
+  <li>I enjoy solving complex problems with clean code 🧠💻.</li>
+  <li>I'm passionate about creating efficient and user-friendly software 💡✨.</li>
+  <li>I'm always eager to learn and collaborate with others 🤝📈.</li>
+</ul>
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
