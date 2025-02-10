@@ -11,6 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathsj) 
+[Portfolio](https://portfolio-bharathsj.vercel.app/)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
