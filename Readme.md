@@ -22,5 +22,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Bharath-S-J&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-S-J&" alt="Bharath-S-J" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharath-S-J&show_icons=true&locale=en&layout=compact" alt="Bharath-S-J" /></p>
