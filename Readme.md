@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bharath-S-J&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bharath-S-J&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=Bharath-S-J&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-S-J&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
