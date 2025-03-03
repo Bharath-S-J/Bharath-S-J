@@ -3,7 +3,7 @@
 <ul>
   <li>I am a passionate software developer!</li>
   <li>I am currently working on building web apps with Node.js and React 💻🚀.</li>
-  <li>I am currently learning DevOps and Angular 📚💡.</li>
+  <li>I am currently learning Spring Boot 📚💡.</li>
   <li>I enjoy solving complex problems with clean code 🧠💻.</li>
   <li>I'm passionate about creating efficient and user-friendly software 💡✨.</li>
   <li>I'm always eager to learn and collaborate with others 🤝📈.</li>
