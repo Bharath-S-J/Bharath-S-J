@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bharath S J  
 
-I'm a passionate **software engineer** who loves building **scalable web applications** and exploring **new technologies**. With a strong focus on **clean code** and **efficient system design**, I enjoy solving complex problems and creating seamless user experiences.  
+Passionate developer with a keen interest in building scalable web applications and exploring emerging technologies. Focused on writing clean, efficient code and designing robust systems. Enthusiastic about solving complex problems and crafting seamless digital experiences.
 
 ## 💡 About Me  
 - 🔹 **Currently working with:** Node.js, React, and Spring Boot  
