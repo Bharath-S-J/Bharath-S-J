@@ -22,7 +22,7 @@ I strive to build **practical and impactful software** while continuously improv
 
 ## 💻 Project Showcase
 
-Welcome to my GitHub profile! Here, you'll find a collection of my self-built projects, showcasing my expertise in software development, microservices, and system design. My portfolio features **expandable project cards**, allowing you to **view detailed descriptions and demo images** for each project. Feel free to explore and check out the repositories!
+Here, you'll find a collection of my self-built projects, showcasing my expertise in software development, microservices, and system design. My portfolio features **expandable project cards**, allowing you to **view detailed descriptions and demo images** for each project. Feel free to explore and check out the repositories!
 
 ---
 
