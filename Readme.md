@@ -3,9 +3,8 @@
 Passionate developer with a keen interest in building scalable web applications and exploring emerging technologies. Focused on writing clean, efficient code and designing robust systems. Enthusiastic about solving complex problems and crafting seamless digital experiences.
 
 ## 💡 About Me  
-- 🔹 **Currently working with:** Node.js, React, and Spring Boot  
 - 🔹 **Learning:** Advanced system design & microservices architecture  
-- 🔹 **Interests:** Web development, backend engineering, and open-source contributions  
+- 🔹 **Interests:** Web development, backend engineering
 - 🔹 **Always open to:** Collaboration, learning new tech, and sharing knowledge  
 
 I strive to build **practical and impactful software** while continuously improving my skills. Check out my **[portfolio](https://bharathsjweb.vercel.app/)** to see my latest projects! 🚀  
