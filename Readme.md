@@ -56,6 +56,21 @@ A desktop application for managing loan applications, processing, and tracking, 
 
 ---
 
+## 🌐 WebAPI Demo  
+### [GitHub Repo](https://github.com/Bharath-S-J/WebAPIDemo)  
+
+A RESTful API built with ASP.NET Core for managing a shirt inventory, featuring validation filters, exception handling, and CRUD operations.  
+
+🔹 **Key Features:**  
+- ✅ **CRUD Operations** (Create, Read, Update, Delete)  
+- 🛠 **Custom Filters & Exception Handling**  
+- 🌐 **RESTful API with Best Practices**  
+- 🚀 **Deployed on Azure**  
+
+🔗 **Live API**: [WebAPIDemo on Azure](https://webapidemoapp.azurewebsites.net/api/shirts/)  
+
+---
+
 ## 📚 Digital Due Records - Store Management System
 ### [GitHub Repo](https://github.com/Bharath-S-J/Digital-Due-Records)
 
