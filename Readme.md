@@ -27,8 +27,7 @@ I strive to build **practical and impactful software** while continuously improv
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white)  
 
 ### 🛠 DevOps & Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23008CBA.svg?style=plastic&logo=githubactions&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-%23624BFF.svg?style=plastic&logo=terraform&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23008CBA.svg?style=plastic&logo=githubactions&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-%23624BFF.svg?style=plastic&logo=terraform&logoColor=white)  
 
 ---
 
