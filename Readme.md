@@ -2,11 +2,6 @@
 
 Passionate about building scalable, high-performance applications and solving complex technical challenges. With experience in backend engineering, system design, full-stack development, and cloud computing, I thrive on exploring innovative solutions and staying ahead of evolving technologies.
 
-## 💡 About Me  
-- **Exploring:** Advanced system design & microservices architecture  
-- **Interested In:** Web development, backend engineering
-- **Always open to:** Collaboration, learning new tech, and sharing knowledge  
-
 I strive to build **practical and impactful software** while continuously improving my skills. Check out my **[portfolio](https://bharathsjweb.vercel.app/)** to see my latest projects! 🚀  
 
 ---
