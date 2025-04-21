@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bharath S J  
+# Hi 👋, I'm Bharath S J   
 
 Passionate about building scalable, high-performance applications and solving complex technical challenges. With experience in backend engineering, system design, full-stack development, and cloud computing, I thrive on exploring innovative solutions and staying ahead of evolving technologies.
 
