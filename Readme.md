@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bharath S J   
 
-Passionate about building scalable, high-performance applications and solving complex technical challenges. With experience in backend engineering, system design, full-stack development, and cloud computing, I thrive on exploring innovative solutions and staying ahead of evolving technologies.
+Passionate about building scalable, high-performance applications and solving complex technical challenges. With experience in backend engineering, system design, full-stack development, and cloud computing, I thrive on exploring innovative solutions and staying ahead of evolving technologies.   
 
 I strive to build **practical and impactful software** while continuously improving my skills. Check out my **[portfolio](https://bharathsjweb.vercel.app/)** to see my latest projects! 🚀  
 
