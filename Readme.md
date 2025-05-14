@@ -2,12 +2,12 @@
 
 Passionate about building scalable, high-performance applications and solving complex technical challenges. With experience in backend engineering, system design, full-stack development, and cloud computing, I thrive on exploring innovative solutions and staying ahead of evolving technologies.   
 
-I strive to build **practical and impactful software** while continuously improving my skills. Check out my **[portfolio](https://bharathsjweb.vercel.app/)** to see my latest projects! 🚀  
+I strive to build **practical and impactful software** while continuously improving my skills. Check out my **[portfolio](https://bharathsj.com/)** to see my latest projects! 🚀  
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathsj) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactwithbharath@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://bharathsjweb.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathsj) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharath@bharathsj.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://bharathsjweb.vercel.app/)  
 
 ---
 
@@ -96,7 +96,7 @@ A web-based platform connecting **farmers** and **buyers**, enabling direct agri
 ---
 
 ## 🌐 My Personal Portfolio
-### [GitHub Repo](https://github.com/Bharath-S-J/Portfolio) | [Live Demo](https://bharathsjweb.vercel.app/)
+### [GitHub Repo](https://github.com/Bharath-S-J/Portfolio) | [Live Demo](https://bharathsj.com/)
 
 A fully responsive portfolio website with dark mode support, showcasing my projects, skills, and experiences.
 
