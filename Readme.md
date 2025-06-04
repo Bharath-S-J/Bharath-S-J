@@ -128,10 +128,10 @@ A **Spring Boot Microservices** project focusing on **architecture over function
 
 ---
 
-## ✅ Task Master - React Todo App
+## ✅ Task Master - Task Management Application
 ### [GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
 
-A modern **React-based Todo App** with **Firebase authentication** for secure and real-time task management.
+**Task Master** is a modern **React-based Task Management Application** built with **Firebase authentication** and **real-time Firestore** support. It empowers users to manage their tasks with reminders, status tracking, and audio alerts — all in a secure and responsive interface.
 
 🔹 **Key Features:**
 - 🔒 **Authentication (Email, OAuth with Google)**
@@ -139,6 +139,7 @@ A modern **React-based Todo App** with **Firebase authentication** for secure an
 - 🔄 **Real-time Sync with Firebase**
 - 📩 **Email Verification & Password Recovery**
 - 🎨 **Minimal & Responsive UI with Vite**
+- 🔔 **Real-Time Alerts**
 
 ---
 
