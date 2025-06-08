@@ -42,7 +42,7 @@ Here's your **updated and cleanly formatted project showcase**, now with the **R
 
 ## 💬 Realtime Chat Application
 
-### [GitHub Repo](https://github.com/Bharath-S-J/Realtime-Chat-App)
+### [GitHub Repo](https://github.com/Bharath-S-J/Intent-Chat)
 
 A full-stack real-time chat application with user authentication, contact management, file uploads, and email-based invites. Built using **React**, **Node.js**, **MongoDB**, and **Socket.IO** for seamless messaging and interaction.
 
