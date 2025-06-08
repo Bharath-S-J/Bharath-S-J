@@ -36,9 +36,6 @@ I strive to build **practical and impactful software** while continuously improv
 Here, you'll find a collection of my self-built projects, showcasing my expertise in software development, microservices, and system design. My portfolio features **expandable project cards**, allowing you to **view detailed descriptions and demo images** for each project. Feel free to explore and check out the repositories!
 
 ---
-Here's your **updated and cleanly formatted project showcase**, now with the **Realtime Chat Application** included in the correct order based on complexity and depth. All headings, feature bullets, and tone are unified and ready for GitHub, portfolio, or resume usage.
-
----
 
 ## 💬 Realtime Chat Application
 
