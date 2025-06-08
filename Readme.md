@@ -36,110 +36,141 @@ I strive to build **practical and impactful software** while continuously improv
 Here, you'll find a collection of my self-built projects, showcasing my expertise in software development, microservices, and system design. My portfolio features **expandable project cards**, allowing you to **view detailed descriptions and demo images** for each project. Feel free to explore and check out the repositories!
 
 ---
+Here's your **updated and cleanly formatted project showcase**, now with the **Realtime Chat Application** included in the correct order based on complexity and depth. All headings, feature bullets, and tone are unified and ready for GitHub, portfolio, or resume usage.
+
+---
+
+## 💬 Realtime Chat Application
+
+### [GitHub Repo](https://github.com/Bharath-S-J/Realtime-Chat-App)
+
+A full-stack real-time chat application with user authentication, contact management, file uploads, and email-based invites. Built using **React**, **Node.js**, **MongoDB**, and **Socket.IO** for seamless messaging and interaction.
+
+🔹 **Key Features:**
+
+* 🔒 **JWT Authentication & Protected Routes**
+* 👥 **Contact-Based Messaging (Friend System)**
+* 🖼️ **Text + Image Messaging via Cloudinary**
+* 📩 **Email Invites via Nodemailer**
+* ⚡ **Real-Time Messaging with Socket.IO**
+* 🔔 **Notification Toasts for Events**
+* 🧠 **Zustand for State Management**
+* 🧹 **File & Message Length Limits**
+
+---
 
 ## 🏦 Total Bank Manager
+
 ### [GitHub Repo](https://github.com/Bharath-S-J/Total-Bank-Manager)
 
-A comprehensive banking management system built with Java (Swing) and MySQL, featuring a three-tier user access model:
-- **Customers**: Register, manage accounts, perform transactions, and raise complaints.
-- **Employees**: Verify applications, process transactions, handle support requests.
-- **Managers**: Oversee bank operations, manage employees, monitor financial statistics, and generate reports.
+A comprehensive banking management system built with **Java (Swing)** and **MySQL**, featuring a three-tier user access model.
 
 🔹 **Key Features:**
-- 🔒 **Three-Level Access** (Customer, Employee, Manager)
-- 📊 **Graphical Statistics** (Bar & Line Charts)
-- 📧 **Email Verification & Notifications**
-- 📝 **Transaction History & PDF Export**
-- 🛠 **Automated Account Creation & Complaint System**
 
----
-
-## 💰 Finance Flow
-### [GitHub Repo](https://github.com/Bharath-S-J/Finance-Flow)
-
-A desktop application for managing loan applications, processing, and tracking, built using Python and MySQL.
-
-🔹 **Key Features:**
-- 🔒 **User Management & Role-Based Access**
-- 🏦 **Loan Processing & EMI Calculations**
-- 📝 **Payment & Penalty Management**
-- 🎨 **Secure Document Upload & Preview**
-- 📈 **Financial Tracking & Reports**
-
----
-
-## 📚 Digital Due Records - Store Management System
-### [GitHub Repo](https://github.com/Bharath-S-J/Digital-Due-Records)
-
-A digital ledger system built in **C** to replace traditional "Katha" systems in Indian stores, streamlining customer dues and bill management.
-
-🔹 **Key Features:**
-- 🔒 **Dual Access System** (Customer & Admin)
-- 📝 **Customer Record Management & Bill Generation**
-- 🔍 **Advanced Search & Sorting**
-- 🛡️ **Security Features: Password Protection & Recovery**
-- 📝 **Professional Billing & Record Management**
-
----
-
-## 🛒 Virtual Agri-Marketplace
-### [GitHub Repo](https://github.com/Bharath-S-J/Virtual-Agri-Marketplace)
-
-A web-based platform connecting **farmers** and **buyers**, enabling direct agricultural product trading.
-
-🔹 **Key Features:**
-- 🔒 **Authentication & Role-Based Access** (Farmers/Buyers)
-- 🌾 **Product & Inventory Management**
-- 🛒 **Shopping Cart & Order Processing**
-- 📦 **Real-Time Stock & Order Tracking**
-
----
-
-## 🌐 My Personal Portfolio
-### [GitHub Repo](https://github.com/Bharath-S-J/Portfolio) | [Live Demo](https://bharathsj.com/)
-
-A fully responsive portfolio website with dark mode support, showcasing my projects, skills, and experiences.
-
-🔹 **Key Features:**
-- ✅ **Responsive Design**
-- 🌙 **Dark Mode Toggle**
-- 🔗 **Project Showcase & Links**
-- 📧 **Contact Form with Nodemailer**
-- 🖼️ **Expandable Project Cards**: Click to view project descriptions and demo images for better insight.
+* 🔒 **Three-Level Access** (Customer, Employee, Manager)
+* 📊 **Graphical Statistics** (Bar & Line Charts)
+* 📧 **Email Verification & Notifications**
+* 📝 **Transaction History & PDF Export**
+* 🛠 **Automated Account Creation & Complaint System**
 
 ---
 
 ## ☕ Spring Boot Microservices
+
 ### [GitHub Repo](https://github.com/Bharath-S-J/SpringBootMicroservices)
 
-A **Spring Boot Microservices** project focusing on **architecture over functionality**, implementing multiple services with robust communication mechanisms.
+A microservices-based architecture project using **Spring Boot**, focused on service decoupling, inter-service communication, and monitoring.
 
 🔹 **Architecture & Services:**
-- 📦 **Product Service (8080)**
-- 📦 **Order Service (8081)**
-- 📦 **Inventory Service (8082)**
-- 📢 **Notification Service (8083)**
-- 🌐 **API Gateway (9000) & Angular Frontend (4200)**
+
+* 📦 **Product, Order, Inventory & Notification Services**
+* 🌐 **API Gateway with Spring Cloud**
+* 📺 **Angular Frontend (Port 4200)**
 
 🔹 **Tech Stack:**
-- 🛠 **Spring Boot, Angular, MongoDB, MySQL**
-- ⚡ **Kafka, Keycloak, Grafana Stack**
-- 🌆 **Spring Cloud Gateway**
+
+* 🛠 **Spring Boot, Angular, MongoDB, MySQL**
+* ⚡ **Kafka, Keycloak, Grafana Stack**
+* 📡 **Robust API Layer & Security**
 
 ---
 
-## ✅ Task Master - Task Management Application
-### [GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
+## 💰 Finance Flow
 
-**Task Master** is a modern **React-based Task Management Application** built with **Firebase authentication** and **real-time Firestore** support. It empowers users to manage their tasks with reminders, status tracking, and audio alerts — all in a secure and responsive interface.
+### [GitHub Repo](https://github.com/Bharath-S-J/Finance-Flow)
+
+A desktop application for managing loan applications, EMI plans, and user records, built using **Python** and **MySQL**.
 
 🔹 **Key Features:**
-- 🔒 **Authentication (Email, OAuth with Google)**
-- ✅ **Task Management: Add, Edit, Delete, Complete**
-- 🔄 **Real-time Sync with Firebase**
-- 📩 **Email Verification & Password Recovery**
-- 🎨 **Minimal & Responsive UI with Vite**
-- 🔔 **Real-Time Alerts**
+
+* 🔒 **User Management & Role-Based Access**
+* 🏦 **Loan Processing & EMI Calculations**
+* 📝 **Payment & Penalty Management**
+* 🎨 **Secure Document Upload & Preview**
+* 📈 **Financial Tracking & Reports**
+
+---
+
+## 🛒 Virtual Agri-Marketplace
+
+### [GitHub Repo](https://github.com/Bharath-S-J/Virtual-Agri-Marketplace)
+
+A full-stack web platform connecting **farmers** and **buyers**, enabling direct agricultural trade and inventory tracking.
+
+🔹 **Key Features:**
+
+* 🔒 **Authentication & Role-Based Access**
+* 🌾 **Product & Inventory Management**
+* 🛒 **Shopping Cart & Order Processing**
+* 📦 **Real-Time Stock & Order Tracking**
+
+---
+
+## 📚 Digital Due Records – Store Management System
+
+### [GitHub Repo](https://github.com/Bharath-S-J/Digital-Due-Records)
+
+A lightweight store ledger system built in **C**, streamlining customer due tracking and bill generation for small businesses.
+
+🔹 **Key Features:**
+
+* 🔒 **Dual Access System** (Customer & Admin)
+* 📝 **Customer Record Management**
+* 🧾 **Bill Generation & Search Functions**
+* 🛡️ **Password Protection & Recovery**
+
+---
+
+## ✅ Task Master – Task Management Application
+
+### [GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
+
+A responsive and user-friendly task management web app using **React**, **Firebase**, and **Vite**.
+
+🔹 **Key Features:**
+
+* 🔒 **Authentication (Email, Google OAuth)**
+* ✅ **Task Add, Edit, Delete, Completion Tracking**
+* 🔄 **Real-Time Firebase Sync**
+* 📩 **Email Verification & Password Recovery**
+* 🎨 **Minimal UI + Mobile Responsive**
+* 🔔 **Email & Audio Alerts**
+
+---
+
+## 🌐 My Personal Portfolio
+
+### [GitHub Repo](https://github.com/Bharath-S-J/Portfolio) | [Live Demo](https://bharathsj.com/)
+
+A modern, responsive personal portfolio site showcasing your projects, skills, and resume, with a clean aesthetic and dark mode.
+
+🔹 **Key Features:**
+
+* ✅ **Responsive Grid Layout**
+* 🌙 **Dark Mode Toggle**
+* 🔗 **Project Cards with Descriptions & Links**
+* 📧 **Contact Form with Nodemailer**
+* 🖼️ **Expandable Project Views**
 
 ---
 
