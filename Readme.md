@@ -7,48 +7,26 @@ I strive to build **practical and impactful software** while continuously improv
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathsj)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharath@bharathsj.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://bharathsj.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathsj)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharath@bharathsj.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://bharathsj.com/)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
 ### Web Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 
 ### Backend & Frameworks  
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 
 ### Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white)
 
 ### DevOps & Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23008CBA.svg?style=plastic&logo=githubactions&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23008CBA.svg?style=plastic&logo=githubactions&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-%23624BFF.svg?style=plastic&logo=terraform&logoColor=white)
 
 ---
@@ -139,6 +117,19 @@ A lightweight C-based ledger system for small businesses to track customer dues 
 - Search functionality and password protection  
 
 ---
+### 📝 Node Blog Website  
+[GitHub Repo](https://github.com/Bharath-S-J/NodePress)
+
+A full-featured blog website built with **Node.js**, **Express**, and **MongoDB**, featuring user authentication, CRUD operations for posts, and comments system.
+
+**Key Features:**  
+- User signup/login with hashed passwords  
+- Create, edit, delete blog posts  
+- Commenting system with moderation  
+- RESTful API architecture  
+- Responsive design and clean UI
+
+---
 
 ### ✅ Task Master – Task Management Web App  
 [GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
@@ -155,19 +146,21 @@ Responsive task manager built with **React**, **Firebase**, and **Vite** featuri
 
 ---
 
-### 📝 Node Blog Website  
-[GitHub Repo](https://github.com/Bharath-S-J/NodeBlog)
 
-A full-featured blog website built with **Node.js**, **Express**, and **MongoDB**, featuring user authentication, CRUD operations for posts, and comments system.
+### 📚 Digital Due Records – Store Management System
+[GitHub Repo](https://github.com/Bharath-S-J/Digital-Due-Records)
 
-**Key Features:**  
-- User signup/login with hashed passwords  
-- Create, edit, delete blog posts  
-- Commenting system with moderation  
-- RESTful API architecture  
-- Responsive design and clean UI  
+A lightweight store ledger system built in **C**, designed to streamline customer due tracking and bill generation for small businesses.
+
+🔹 **Key Features:**
+
+* 🔒 **Dual Access System** (Customer & Admin)
+* 📝 **Customer Record Management**
+* 🧾 **Bill Generation & Search Functions**
+* 🛡️ **Password Protection & Recovery**
 
 ---
+
 
 ### 🌐 Personal Portfolio Website  
 [GitHub Repo](https://github.com/Bharath-S-J/Portfolio) | [Live Demo](https://bharathsj.com/)
