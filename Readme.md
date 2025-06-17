@@ -37,6 +37,35 @@ Explore a selection of my key projects demonstrating full-stack development, sys
 
 ---
 
+### ⚡ cfapi – Code-Free API Generator
+
+[GitHub Repo](https://github.com/Bharath-S-J/cfapi) | [NPM Package](https://www.npmjs.com/package/@bharathsj/cfapi)
+
+A blazing-fast CLI tool to **scaffold full REST APIs** from just a simple schema. Supports **mock JSON** or **MongoDB (Mongoose)** engines, generating everything from routes, models, and controllers to OpenAPI docs — all without writing a single line of boilerplate.
+
+**Key Features:**
+
+* 📁 Generates folder structure, controllers, routes, and models automatically
+* ✅ Built-in input validation and OpenAPI schema generation
+* 🧪 Supports mock storage (`.json`) with auto-generated fake data
+* 🧬 Full Mongoose support for MongoDB, including nested schemas and refs
+* ✏️ PATCH (flat updates), PUT (full replaces), and input sanitization
+* ⚙️ CLI support for `generate` and `add` commands
+* 💡 Simple schema format with types like string, number, uuid, email, object, array, etc.
+* 🔁 OpenAPI-compliant output for easy integration and docs
+
+📦 Install:
+```bash
+npm install -g @bharathsj/cfapi
+```
+📂 Example command:
+```bash
+cfapi generate --schema user.schema.json --engine mock --output ./generated-api
+```
+⚠️ Note: Designed for quick scaffolding and prototyping — not a replacement for full custom-built backends.
+
+---
+
 ### 💬 Intent Chat – Real-Time Chat Application  
 [GitHub Repo](https://github.com/Bharath-S-J/Intent-Chat)
 
