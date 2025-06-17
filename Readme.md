@@ -1,8 +1,9 @@
 # Hi 👋, I'm Bharath S J
 
-Passionate about building scalable, high-performance applications and solving complex technical challenges. With experience in backend engineering, system design, full-stack development, and cloud computing, I thrive on exploring innovative solutions and staying ahead of evolving technologies.
+I love solving hard technical problems, especially where performance, scalability, and automation intersect. My projects range from real-time apps and microservice systems to custom CLI that generate APIs from a schema in seconds.
 
-I strive to build **practical and impactful software** while continuously improving my skills. Check out my **[portfolio](https://bharathsj.com/)** to see my latest projects! 🚀
+Explore my **[portfolio](https://bharathsj.com/)** for full-stack projects built with Node.js, MongoDB, React, Java, Python, and more — all driven by clean architecture and practical design.
+
 
 ---
 
