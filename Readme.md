@@ -116,6 +116,8 @@ A microservices-based system using **Spring Boot** with decoupled services, inte
 
 Responsive task manager built with **React**, **Firebase**, and **Vite** featuring authentication, real-time sync, notifications, and minimal UI.
 
+> ℹ️ **Note**: All core features work in the live demo. However, the **email reminder** functionality requires a backend server and is currently unavailable in this version.
+
 **Key Features:**  
 - Email and Google OAuth authentication  
 - Add, edit, delete, and track task completion  
