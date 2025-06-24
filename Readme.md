@@ -67,18 +67,20 @@ cfapi generate --schema user.schema.json --engine mock --output ./generated-api
 
 ---
 
-### 💬 Intent Chat – Real-Time Chat Application  
-[GitHub Repo](https://github.com/Bharath-S-J/Intent-Chat)
+### 💬 Intent Chat – AI-Enhanced Real-Time Chat Application  
+[GitHub Repo](https://github.com/Bharath-S-J/Intent-Chat)  
 
-A full-stack real-time chat app with email/password authentication, contact invitations, real-time text and image messaging, online presence, and theme customization. Built using **React**, **Node.js**, **MongoDB**, **Socket.IO**, and **Cloudinary**.
+A full-stack real-time chat app with email/password authentication, contact invitations, AI-powered messaging features, real-time text/image messaging, online presence, and theme customization. Built using **React**, **Node.js**, **MongoDB**, **Socket.IO**, **Cloudinary**, and **OpenAI** (via OpenRouter).  
 
 **Key Features:**  
 - JWT Authentication & protected routes  
+- AI-powered tone detection (😄/😢/😠) and smart reply suggestions  
 - Mutual contact-based messaging system  
 - Image upload with Cloudinary integration  
 - Real-time messaging and notifications with Socket.IO  
 - Zustand state management and React Router v7  
 - Email invites and profile management  
+- Theme customization (light/dark modes)  
 
 ---
 
