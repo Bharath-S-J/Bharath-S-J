@@ -4,7 +4,6 @@ I love solving hard technical problems, especially where performance, scalabilit
 
 Explore my **[portfolio](https://bharathsj.com/)** for full-stack projects built with Node.js, MongoDB, React, Java, Python, and more — all driven by clean architecture and practical design.
 
-
 ---
 
 ## 🌐 Connect with Me  
@@ -112,6 +111,21 @@ A microservices-based system using **Spring Boot** with decoupled services, inte
 
 ---
 
+### ✅ Task Master – Task Management Web App  
+[GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
+
+Responsive task manager built with **React**, **Firebase**, and **Vite** featuring authentication, real-time sync, notifications, and minimal UI.
+
+**Key Features:**  
+- Email and Google OAuth authentication  
+- Add, edit, delete, and track task completion  
+- Real-time syncing with Firebase  
+- Email verification and password recovery  
+- Mobile responsive and minimal design  
+- Email & audio alerts  
+
+---
+
 ### 💰 Finance Flow – Loan & EMI Management Desktop App  
 [GitHub Repo](https://github.com/Bharath-S-J/Finance-Flow)
 
@@ -160,21 +174,6 @@ A full-featured blog website built with **Node.js**, **Express**, and **MongoDB*
 - Commenting system with moderation  
 - RESTful API architecture  
 - Responsive design and clean UI
-
----
-
-### ✅ Task Master – Task Management Web App  
-[GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
-
-Responsive task manager built with **React**, **Firebase**, and **Vite** featuring authentication, real-time sync, notifications, and minimal UI.
-
-**Key Features:**  
-- Email and Google OAuth authentication  
-- Add, edit, delete, and track task completion  
-- Real-time syncing with Firebase  
-- Email verification and password recovery  
-- Mobile responsive and minimal design  
-- Email & audio alerts  
 
 ---
 
