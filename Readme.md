@@ -112,7 +112,7 @@ A microservices-based system using **Spring Boot** with decoupled services, inte
 ---
 
 ### ✅ Task Master – Task Management Web App  
-[GitHub Repo](https://github.com/Bharath-S-J/Task-Master) | [Live Demo](https://task-master-jade-beta.vercel.app/)
+[GitHub Repo](https://github.com/Bharath-S-J/Task-Master-fullstack) | [Live Demo](https://task-master-jade-beta.vercel.app/)
 
 Responsive task manager built with **React**, **Firebase**, and **Vite** featuring authentication, real-time sync, notifications, and minimal UI.
 
