@@ -165,6 +165,7 @@ A lightweight C-based ledger system for small businesses to track customer dues 
 - Search functionality and password protection  
 
 ---
+
 ### 📝 Node Blog Website  
 [GitHub Repo](https://github.com/Bharath-S-J/NodePress)
 
@@ -178,22 +179,6 @@ A full-featured blog website built with **Node.js**, **Express**, and **MongoDB*
 - Responsive design and clean UI
 
 ---
-
-
-### 📚 Digital Due Records – Store Management System
-[GitHub Repo](https://github.com/Bharath-S-J/Digital-Due-Records)
-
-A lightweight store ledger system built in **C**, designed to streamline customer due tracking and bill generation for small businesses.
-
-🔹 **Key Features:**
-
-* 🔒 **Dual Access System** (Customer & Admin)
-* 📝 **Customer Record Management**
-* 🧾 **Bill Generation & Search Functions**
-* 🛡️ **Password Protection & Recovery**
-
----
-
 
 ### 🌐 Personal Portfolio Website  
 [GitHub Repo](https://github.com/Bharath-S-J/Portfolio) | [Live Demo](https://bharathsj.com/)
